@@ -1,3 +1,4 @@
 <!--pages/page1/page1.wxml-->
 <text class="text">hello word</text>
 <button class="button">按钮</button>
+<view>知识点2</view>
