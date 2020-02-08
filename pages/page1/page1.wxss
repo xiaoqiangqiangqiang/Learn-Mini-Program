@@ -1,0 +1,9 @@
+/* pages/page1/page1.wxss */
+.text{
+  font-size:30px;
+  color:red;
+}
+.button{
+  width:100px;
+  height:50px;
+}

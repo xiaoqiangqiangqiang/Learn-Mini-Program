@@ -1,0 +1,3 @@
+<!--pages/page1/page1.wxml-->
+<text class="text">hello word</text>
+<button class="button">按钮</button>
